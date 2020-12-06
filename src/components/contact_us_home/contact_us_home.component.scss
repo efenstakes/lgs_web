@@ -1,0 +1,24 @@
+@import '../../utils/theme';
+
+.contact_us_home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 40px 0px;
+
+    // background-image: url('../../assets/images/Transport.jpg');
+    // background-size: cover;
+    background-color: lighten($black, 3);
+    // opacity: 0.6;
+
+    color: $white;
+}
+
+.contact_us_home__title {
+    margin-bottom: -10px;
+}
+
+.contact_us_home__subtitle {
+    margin-bottom: 24px;
+}

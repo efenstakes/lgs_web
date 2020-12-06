@@ -1,0 +1,33 @@
+@import '../../utils/theme';
+
+.contact_form {
+    padding: 0px 80px;
+
+    @media screen and ( max-width: '600px' ) {
+        padding: 0px 20px;
+    }
+}
+
+
+.contact_us__contact {
+    margin-bottom: 56px;
+}
+
+.contact_us__contact__title {
+    color: $primary_color;
+}
+
+.contact_us__contact__socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    max-width: 240px;
+    color: $white;
+}
+
+.contact_us__contact__socials__link {
+    padding: 12px;
+    background-color: $primary_color;
+    border-radius: 8px;
+}

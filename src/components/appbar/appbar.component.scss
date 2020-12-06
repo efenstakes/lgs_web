@@ -1,0 +1,35 @@
+@import '../../utils/theme';
+
+
+.app_bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 32px;
+}
+
+.app_bar__logo {
+    font-size: 1.2em;
+    font-weight: 800;
+    color: black;
+}
+
+.app_bar__links__item {
+    margin: 0px 24px;
+
+    @media screen and ( max-width: '600px' ) {
+        margin: 0px 12px;
+    }
+}
+
+.app_bar__links__link {
+    text-decoration: none;
+    color: $black;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.app_bar__links__link_active {
+    color: $primary_color;
+}

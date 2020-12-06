@@ -1,0 +1,25 @@
+
+.mobile_app_bar {
+    display: flex;
+    flex-direction: column;
+
+    padding: 10px 32px;
+
+    @media screen and ( max-width: '600px' ) {
+        padding: 10px 16px;
+    }
+}
+
+.mobile_app_bar__top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.mobile_app_bar__links {
+    margin: 12px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

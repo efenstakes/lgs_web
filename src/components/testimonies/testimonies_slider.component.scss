@@ -1,0 +1,12 @@
+@import '../../utils/theme';
+
+.testimonies_slider_container {
+    padding: 96px 20px;
+    background-color: black;
+}
+
+.testimonies_slider_container__title {
+    color: $primary_color;
+    text-align: center;
+    margin-bottom: 24px;
+}
