@@ -19,10 +19,10 @@ function App() {
     <Router>
       <Switch>
 
-        // home
+        {/* // home */}
         <Route exact path="/" component={HomePage} />
 
-        // services
+        {/* // services */}
         <Route exact path="/services" 
                component={ServicesPage} />
 
