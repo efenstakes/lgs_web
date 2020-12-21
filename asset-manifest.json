@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/lgs_web/static/css/main.ab21bb1e.chunk.css",
+    "main.js": "/lgs_web/static/js/main.bf44edfd.chunk.js",
+    "main.js.map": "/lgs_web/static/js/main.bf44edfd.chunk.js.map",
+    "runtime-main.js": "/lgs_web/static/js/runtime-main.3b5db6d0.js",
+    "runtime-main.js.map": "/lgs_web/static/js/runtime-main.3b5db6d0.js.map",
+    "static/css/2.405918ca.chunk.css": "/lgs_web/static/css/2.405918ca.chunk.css",
+    "static/js/2.e43ce9ed.chunk.js": "/lgs_web/static/js/2.e43ce9ed.chunk.js",
+    "static/js/2.e43ce9ed.chunk.js.map": "/lgs_web/static/js/2.e43ce9ed.chunk.js.map",
+    "index.html": "/lgs_web/index.html",
+    "static/css/2.405918ca.chunk.css.map": "/lgs_web/static/css/2.405918ca.chunk.css.map",
+    "static/css/main.ab21bb1e.chunk.css.map": "/lgs_web/static/css/main.ab21bb1e.chunk.css.map",
+    "static/js/2.e43ce9ed.chunk.js.LICENSE.txt": "/lgs_web/static/js/2.e43ce9ed.chunk.js.LICENSE.txt",
+    "static/media/CCTV system.058d7fca.jpg": "/lgs_web/static/media/CCTV system.058d7fca.jpg",
+    "static/media/Dog handler.686f117c.jpg": "/lgs_web/static/media/Dog handler.686f117c.jpg",
+    "static/media/Event-security.03f1181a.jpg": "/lgs_web/static/media/Event-security.03f1181a.jpg",
+    "static/media/Guards picture.79b8a1a9.jpg": "/lgs_web/static/media/Guards picture.79b8a1a9.jpg",
+    "static/media/Transit vehicle 2.8fe6f7a7.jpg": "/lgs_web/static/media/Transit vehicle 2.8fe6f7a7.jpg",
+    "static/media/Transport.5ee54e66.jpg": "/lgs_web/static/media/Transport.5ee54e66.jpg",
+    "static/media/VIP Guards.e88c1d4c.jpg": "/lgs_web/static/media/VIP Guards.e88c1d4c.jpg",
+    "static/media/cctv camera.d716f856.jpg": "/lgs_web/static/media/cctv camera.d716f856.jpg",
+    "static/media/fence.127093db.jpg": "/lgs_web/static/media/fence.127093db.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b5db6d0.js",
+    "static/css/2.405918ca.chunk.css",
+    "static/js/2.e43ce9ed.chunk.js",
+    "static/css/main.ab21bb1e.chunk.css",
+    "static/js/main.bf44edfd.chunk.js"
+  ]
+}
